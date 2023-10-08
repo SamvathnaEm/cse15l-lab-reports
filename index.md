@@ -94,6 +94,7 @@ public class Hello {
   }
 }[user@sahara ~]$ 
 ```
+
 The **cat** command with a path to a file as an argument will print the content inside that file given by a path. The working directory was /home/lecture1/Hello.java when this command was run. Therefore, the output would simply be the content inside the Hello.java file.
 
 
