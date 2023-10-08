@@ -75,7 +75,7 @@ cat: lecture1/messages: Is a directory
 [user@sahara ~]$ 
 ```
 
-The **cat** command with a path to a directory as an argument will produce an error message as the output. The working directory was lecture1/messages when this command was run. Since this command only accepts one or more file paths to print the contents of those files given by the paths, a path to a directory as an argument doesn't work in this case, as shown in the example above. Therefore, the output had been produced as an error message saying that lecture1/messages is a directory. 
+The **cat** command with a path to a directory as an argument will produce an error message as the output. The working directory was lecture1/messages when this command was run. Since this command only accepts one or more file paths to print the contents of those files given by the paths, a path to a directory as an argument doesn't work in this case, as shown in the example above. Therefore, the output had been produced as an error message saying that lecture1/messages is a directory.
 
 
 3. Example with a path to a file as an argument
